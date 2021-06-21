@@ -1,0 +1,2 @@
+# striveschool
+about Strive School
